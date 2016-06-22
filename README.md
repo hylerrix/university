@@ -3,8 +3,6 @@ WEB全栈工程师之路
 
 前注：文本由于作者暂为大学生，会有不足的地方，持续改进。
 
-[TOC]
-
 ## 开发环境
 PHP开发环境包XAMPP https://www.apachefriends.org/zh_cn/index.html/
 PHP用来管理依赖(dependency)关系的工具PHPComposer http://www.phpcomposer.com/
