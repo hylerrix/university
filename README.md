@@ -1,7 +1,12 @@
-# Web-Full-Stack
-WEB全栈工程师之路
+# 互联网全栈工程师的准备
+
+标签（空格分隔）： 职业规划
+
+---
 
 前注：文本由于作者暂为大学生，会有不足的地方，持续改进。
+
+[TOC]
 
 ## 开发环境
 PHP开发环境包XAMPP https://www.apachefriends.org/zh_cn/index.html/
@@ -41,6 +46,10 @@ Visual Studio https://www.visualstudio.com/zh-cn/downloads/download-visual-studi
 Dev C++ http://sourceforge.net/projects/orwelldevcpp/
 CodeBlocks http://www.codeblocks.org/
 
+## 在线编程
+C9.IO https://c9.io/
+codio https://codio.com/
+
 ## 博客主站
 GitHub Pages https://pages.github.com/
 Wordpress https://wordpress.org/
@@ -57,6 +66,12 @@ FreeBuf 黑客社区 http://www.freebuf.com/
 ## 知识体系
 w3cschool http://www.w3school.com.cn/
 极客学院wiki http://wiki.jikexueyuan.com/
+NodeSchool http://nodeschool.io/zh-cn/
+FreeCodeCamp http://freecodecamp.com/
+Growth http://www.growth.ren/
+
+## 技术文档
+Web 技术文档 https://developer.mozilla.org/zh-CN/docs/Web
 
 ## 视频学习
 慕课网 https://www.shiyanlou.com/
@@ -80,6 +95,9 @@ CocoaChina 移动开发社区 http://www.cocoachina.com/
 少数派 http://sspai.com/
 雷劈网 PHP开源社区 http://www.leipi.org/
 前端资源库 https://www.awesomes.cn/
+StackOverFlow http://stackoverflow.com/
+开发者头条 http://toutiao.io/
+掘金 http://gold.xitu.io/
 
 ## 设计工具
 在线制作平台 http://www.ipresst.com/
@@ -96,6 +114,7 @@ Teambition https://www.teambition.com/
 WorkLite https://worktile.com/
 YoMail http://www.yomail.com/
 Cmd Markdown https://www.zybuluo.com/
+Slack https://slack.com/
 
 ## 域名建站
 凡科建站 http://www.faisco.com/
@@ -109,6 +128,13 @@ SAE（新浪云） http://sae.sina.com.cn/
 36氪 http://36kr.com/
 虎嗅网 http://www.huxiu.com/
 
+## 国外
+medium https://www.medium.com/
+Reddit https://reddit.com/r/freecodecamp
 
+## 模板语言
+HTML预编译jade http://naltatis.github.io/jade-syntax-docs/
 
-
+## 缓存着
+skype
+burrychat
