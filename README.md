@@ -137,4 +137,8 @@ HTML预编译jade http://naltatis.github.io/jade-syntax-docs/
 
 ## 缓存着
 skype
-burrychat
+burrychat 
+在线API文档 http://tool.oschina.net/apidocs
+JS单元测试框架 jasmine http://jasmine.github.io/
+CanIUse http://caniuse.com/
+版权 https://creativecommons.org/
