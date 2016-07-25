@@ -140,5 +140,8 @@ skype
 burrychat 
 在线API文档 http://tool.oschina.net/apidocs
 JS单元测试框架 jasmine http://jasmine.github.io/
-CanIUse http://caniuse.com/
+    CanIUse http://caniuse.com/
 版权 https://creativecommons.org/
+博客 https://ghost.org/
+前端技术栈 http://www.frontendhandbook.com/
+打字练习 https://www.typing.com/student/start
