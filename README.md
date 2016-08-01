@@ -145,3 +145,5 @@ JS单元测试框架 jasmine http://jasmine.github.io/
 博客 https://ghost.org/
 前端技术栈 http://www.frontendhandbook.com/
 打字练习 https://www.typing.com/student/start
+color-themes for IDEA http://color-themes.com/
+刷数据结构与算法 https://leetcode.com/
