@@ -145,9 +145,8 @@ JS单元测试框架 jasmine http://jasmine.github.io/
 博客 https://ghost.org/
 前端技术栈 http://www.frontendhandbook.com/
 打字练习 https://www.typing.com/student/start
-<<<<<<< HEAD
 color-themes for IDEA http://color-themes.com/
 刷数据结构与算法 https://leetcode.com/
-=======
 在线API模拟设计 https://apiary.io/
->>>>>>> 0de9a74769ad391b57ee7ff2e28f3ee1c2620eee
+http://ionicframework.com/
+http://www.runoob.com
