@@ -7,35 +7,36 @@
 ---
 
 ## 开发环境
-* PHP开发环境包XAMPP https://www.apachefriends.org/zh_cn/index.html/
-* PHP用来管理依赖(dependency)关系的工具PHPComposer http://www.phpcomposer.com/
-* 跨平台移动应用程序快速开发平台PhoneGap http://phonegap.com/
-* 云计算管理平台项目OpenStack http://docs.openstack.org/
-* 抓包工具wireshark https://www.wireshark.org/download.html/
+* [PHP开发环境包XAMPP](https://www.apachefriends.org/zh_cn/index.html/)
+* [PHP用来管理依赖(dependency)关系的工具PHPComposer](http://www.phpcomposer.com/)
+* [跨平台移动应用程序快速开发平台PhoneGap](http://phonegap.com/)
+* [云计算管理平台项目OpenStack](http://docs.openstack.org/)
+* [抓包工具wireshark](https://www.wireshark.org/download.html/)
 
 ## 代码管理
-* Git http://git-scm.com/
-* GITHUB  https://github.com/
-* Tortoise SVN http://tortoisesvn.net/
+* [Git](http://git-scm.com/)
+* [GITHUB](https://github.com/)
+* [Tortoise SVN](http://tortoisesvn.net/)
 
 ## 开源框架
-* 前端CSS、JS框架Bootstrap http://www.bootcss.com/
-* angularjs http://docs.angularjs.cn/api   http://www.apjs.net/
-* JS图表库框架 Echarts http://echarts.baidu.com/index.html/
-* JS框架 JQuery https://jquery.com/
-* PHP框架CodeIgniter：http://codeigniter.org.cn/
-* PHP框架Yii http://www.yiichina.com/
-* PrototypeJSJS基础类库 http://prototypejs.org/
-* 网页PPT演示Impress.JS http://impressjs.devpost.com/
-* JQuery框架 http://www.htmleaf.com/
+* [前端CSS、JS框架Bootstrap](http://www.bootcss.com/)
+* [angularjs](http://docs.angularjs.cn/api)
+* [apjs](http://www.apjs.net/)
+* [JS图表库框架 Echarts](http://echarts.baidu.com/index.html/)
+* [JS框架 JQuery](https://jquery.com/)
+* [PHP框架CodeIgniter](http://codeigniter.org.cn/)
+* [PHP框架Yii](http://www.yiichina.com/)
+* [PrototypeJSJS基础类库](http://prototypejs.org/)
+* [网页PPT演示Impress.JS](http://impressjs.devpost.com/)
+* [JQuery框架](http://www.htmleaf.com/)
 
 ## 编辑工具
-* atom https://atom.io/
-* sublime text3 http://www.sublimetext.com/3/
-* Nodepad++ https://notepad-plus-plus.org/
-* 百度富文本编辑器 http://ueditor.baidu.com/website/
-* MarkDown 在线编辑器 http://zybuluo.com/
-* WEB前端IDE Brackets http://brackets.io/
+* [atom](https://atom.io/)
+* [sublime text3](http://www.sublimetext.com/3/)
+* [Nodepad++](https://notepad-plus-plus.org/)
+* [百度富文本编辑器](http://ueditor.baidu.com/website/)
+* [MarkDown 在线编辑器](http://zybuluo.com/)
+* [WEB前端IDE Brackets](http://brackets.io/)
 
 ## IDE环境
 * PHP IDE::JetBrains Phpstorm http://www.jetbrains.com/phpstorm/
@@ -147,4 +148,4 @@
 * 刷数据结构与算法 https://leetcode.com/
 * 在线API模拟设计 https://apiary.io/
 * http://ionicframework.com/
-* http://www.runoob.com
+* http://www.runoob.com/
