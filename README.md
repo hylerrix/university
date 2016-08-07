@@ -15,7 +15,7 @@
 目录
 
 * 开发环境
-* 代码管理
+* 代码托管
 * 开发框架
 * 编辑工具
 * 数结算法
@@ -24,13 +24,13 @@
 * 知识体系
 * 技术文档
 * 视频学习
-* 技术社区
+* 开发社区
 * 设计工具
 * 高效工作
 * 域名建站
 * 创业商业
 * 模版语言
-* 缓存着
+* 其它待定
 
 ---
 
@@ -48,7 +48,7 @@
 * [云计算管理平台项目 OpenStack](http://docs.openstack.org/)
 * [抓包工具 wireshark](https://www.wireshark.org/download.html/)
 
-## 代码管理
+## 代码托管
 * [Git](http://git-scm.com/)
 * [Tortoise SVN](http://tortoisesvn.net/)
 * [GITHUB](https://github.com/)
@@ -153,7 +153,6 @@
 * [极客头条](http://geek.csdn.net)
 * [Reddit](https://www.reddit.com)
 
-
 ## 设计工具
 * [在线制作平台](http://www.ipresst.com/)
 * [在线PPT](https://slides.com/)
@@ -162,6 +161,7 @@
 * [生动的演示文稿软件](https://prezi.com/)
 * [APP原型设计 MockPlus](https://www.mockplus.cn/)
 * [动画演示工具Focusky](http://www.focusky.com.cn/)
+* [文字云 jasondavies](https://www.jasondavies.com/wordcloud/)
 
 ## 高效工作
 * [Teambition](https://www.teambition.com/)
