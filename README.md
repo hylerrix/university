@@ -2,25 +2,62 @@
 
 ---
 
-前注.1：近期持续维护中,目录可能会有较大改动,尽请期待。
+前注.1：近期持续维护中,目录会有较大改动,会有图文并存,尽请期待。
 
 前注.2: 前期文章平台植根于简书,服务于西邮 -- [西邮 Upper](http://www.jianshu.com/users/ecbf49bf207b/latest_articles)。
 
+前注.3: 个人覆盖面发展中,更多全栈内容请戳业界大神 [@Phodal](https://github.com/phodal/)
+
 ---
 
+---
+
+目录
+
+* 开发环境
+* 代码管理
+* 开发框架
+* 编辑工具
+* 数结算法
+* 播客主站
+* 网络攻防
+* 知识体系
+* 技术文档
+* 视频学习
+* 技术社区
+* 设计工具
+* 高效工作
+* 域名建站
+* 创业商业
+* 模版语言
+* 缓存着
+
+---
+
+> 如果有你来,那就更好了
+
 ## 开发环境
-* [PHP开发环境包XAMPP](https://www.apachefriends.org/zh_cn/index.html/)
+* [PHP IDE::JetBrains Phpstorm](http://www.jetbrains.com/phpstorm/)
+* [Eclipse](http://www.eclipse.org/)
+* [Visual Studio](https://www.visualstudio.com/zh-cn/downloads/download-visual-studio-vs.aspx/)
+* [Dev C++](http://sourceforge.net/projects/orwelldevcpp/)
+* [CodeBlocks](http://www.codeblocks.org/)
+* [PHP开发环境包 XAMPP](https://www.apachefriends.org/zh_cn/index.html/)
 * [PHP用来管理依赖(dependency)关系的工具PHPComposer](http://www.phpcomposer.com/)
-* [跨平台移动应用程序快速开发平台PhoneGap](http://phonegap.com/)
-* [云计算管理平台项目OpenStack](http://docs.openstack.org/)
-* [抓包工具wireshark](https://www.wireshark.org/download.html/)
+* [跨平台移动应用程序快速开发平台 PhoneGap](http://phonegap.com/)
+* [云计算管理平台项目 OpenStack](http://docs.openstack.org/)
+* [抓包工具 wireshark](https://www.wireshark.org/download.html/)
 
 ## 代码管理
 * [Git](http://git-scm.com/)
-* [GITHUB](https://github.com/)
 * [Tortoise SVN](http://tortoisesvn.net/)
+* [GITHUB](https://github.com/)
+* [GitLab](https://gitlab.com)
+* [Coding](https://coding.net)
+* [码云](http://git.oschina.net)
+* [Bitbucket](https://bitbucket.org)
 
-## 开源框架
+## 开发框架
 * [前端CSS、JS框架Bootstrap](http://www.bootcss.com/)
 * [angularjs](http://docs.angularjs.cn/api)
 * [apjs](http://www.apjs.net/)
@@ -31,6 +68,9 @@
 * [PrototypeJSJS基础类库](http://prototypejs.org/)
 * [网页PPT演示Impress.JS](http://impressjs.devpost.com/)
 * [JQuery框架](http://www.htmleaf.com/)
+* [Html5移动App开发框架](http://ionicframework.com/)
+* [JS单元测试框架 jasmine](http://jasmine.github.io/)
+* [一个Node.js的静态博客框架 Hexo](https://hexo.io/)
 
 ## 编辑工具
 * [atom](https://atom.io/)
@@ -40,23 +80,30 @@
 * [MarkDown 在线编辑器](http://zybuluo.com/)
 * [WEB前端IDE Brackets](http://brackets.io/)
 
-## IDE环境
-* [PHP IDE::JetBrains Phpstorm](http://www.jetbrains.com/phpstorm/)
-* [Eclipse](http://www.eclipse.org/)
-* [Visual Studio](https://www.visualstudio.com/zh-cn/downloads/download-visual-studio-vs.aspx/)
-* [Dev C++](http://sourceforge.net/projects/orwelldevcpp/)
-* [CodeBlocks](http://www.codeblocks.org/)
-
-## 在线编程
+## 数结算法
 * [C9.IO](https://c9.io/)
 * [codio](https://codio.com/)
+* [刷数据结构与算法](https://leetcode.com/)
+* [](http://acm.hdu.edu.cn/)
+* [](http://poj.org/)
+* [](https://www.jisuanke.com/course)
+* [](http://acm.hust.edu.cn/vjudge/contest/;jsessionid=6DAE7CE7DF0A40071A7D37F05B715767#contestType=0&contestRunningStatus=2&contestOpenness=1&title=&manager=)
+* [](http://codeforces.com/problemset)
+* [](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=827)
+* [](http://login.codevs.com/auth/choose)
+* [](http://acm.xupt.edu.cn/)
+* [](http://www.lintcode.com/)
+* [](http://hihocoder.com/hiho/)
 
 ## 博客主站
+* [博客园 cnblogs](http://www.cnblogs.com)
+* [CSDN](http://www.csdn.net)
 * [GitHub Pages](https://pages.github.com/)
 * [Wordpress](https://wordpress.org/)
 * [wordpress大学](http://www.wpdaxue.com/)
 * [轻量级博客主站 typecho](http://typecho.org/)
-* [一个Node.js的静态博客框架 Hexo](https://hexo.io/)
+* [博客](https://ghost.org/)
+* [medium](https://www.medium.com/)
 
 ## 网络攻防
 * [漏洞盒子（互联网安全测验）](https://www.vulbox.com/)
@@ -70,9 +117,13 @@
 * [NodeSchool](http://nodeschool.io/zh-cn/)
 * [FreeCodeCamp](http://freecodecamp.com/)
 * [Growth](http://www.growth.ren/)
+* [前端技术栈](http://www.frontendhandbook.com/)
+* [菜鸟教程](http://www.runoob.com/)
 
 ## 技术文档
-* Web 技术文档](https://developer.mozilla.org/zh-CN/docs/Web
+* [Web 技术文档](https://developer.mozilla.org/zh-CN/docs/Web)
+* [在线API文档](http://tool.oschina.net/apidocs)
+* [CanIUse](http://caniuse.com/)
 
 ## 视频学习
 * [慕课网](https://www.shiyanlou.com/)
@@ -99,6 +150,9 @@
 * [StackOverFlow](http://stackoverflow.com/)
 * [开发者头条](http://toutiao.io/)
 * [掘金](http://gold.xitu.io/)
+* [极客头条](http://geek.csdn.net)
+* [Reddit](https://www.reddit.com)
+
 
 ## 设计工具
 * [在线制作平台](http://www.ipresst.com/)
@@ -116,6 +170,8 @@
 * [YoMail](http://www.yomail.com/)
 * [Cmd Markdown](https://www.zybuluo.com/)
 * [Slack](https://slack.com/)
+* [skype](http://skype.gmw.cn)
+* [打字练习](https://www.typing.com/student/start)
 
 ## 域名建站
 * [凡科建站](http://www.faisco.com/)
@@ -124,30 +180,15 @@
 * [SAE（新浪云）](http://sae.sina.com.cn/)
 * [亚马逊全球云服务](https://aws.amazon.com/cn/?nc2=h_lg/)
 
-## 拉活创业
+## 创业商业
 * [威客-猪八戒网](http://www.zbj.com/)
 * [36氪](http://36kr.com/)
 * [虎嗅网](http://www.huxiu.com/)
-
-## 国外
-* [medium](https://www.medium.com/)
-* [Reddit](https://reddit.com/r/freecodecamp)
+* [版权](https://creativecommons.org/)
 
 ## 模板语言
 * [HTML预编译 jade](http://naltatis.github.io/jade-syntax-docs/)
 
-## 缓存着
-* [skype]()
-* [burrychat]()
-* [在线API文档](http://tool.oschina.net/apidocs)
-* [JS单元测试框架 jasmine](http://jasmine.github.io/)
-* [CanIUse](http://caniuse.com/)
-* [版权](https://creativecommons.org/)
-* [博客](https://ghost.org/)
-* [前端技术栈](http://www.frontendhandbook.com/)
-* [打字练习](https://www.typing.com/student/start)
+## 其它待定
 * [color-themes for IDEA](http://color-themes.com/)
-* [刷数据结构与算法](https://leetcode.com/)
 * [在线API模拟设计](https://apiary.io/)
-* [](http://ionicframework.com/)
-* [](http://www.runoob.com/)
