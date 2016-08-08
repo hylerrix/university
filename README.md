@@ -30,6 +30,7 @@
 * 域名建站
 * 创业商业
 * 模版语言
+* 镜像站点
 * 其它待定
 
 ---
@@ -56,6 +57,7 @@
 * [Coding](https://coding.net)
 * [码云](http://git.oschina.net)
 * [Bitbucket](https://bitbucket.org)
+* [百度效率云](https://xiaolvyun.baidu.com/#page1)
 
 ## 开发框架
 * [前端CSS、JS框架Bootstrap](http://www.bootcss.com/)
@@ -173,6 +175,8 @@
 * [skype](http://skype.gmw.cn)
 * [打字练习](https://www.typing.com/student/start)
 * [trello](https://trello.com)
+* [在线贴条 ideaboardz](http://ideaboardz.com/)
+* [金数据](https://jinshuju.net)
 
 ## 域名建站
 * [凡科建站](http://www.faisco.com/)
@@ -189,6 +193,37 @@
 
 ## 模板语言
 * [HTML预编译 jade](http://naltatis.github.io/jade-syntax-docs/)
+
+## 镜像站点
+* [搜狐开源镜像站](http://mirrors.sohu.com/)
+* [网易开源镜像站](http://mirrors.163.com/)
+* [开源中国镜像站](http://mirrors.oschina.net/)
+* [首都在线科技股份有限公司](http://mirrors.yun-idc.com/)
+* [阿里云开源镜像](http://mirrors.aliyun.com/)
+* [LUPA](http://mirror.lupaworld.com/)
+* [常州贝特康姆软件技术有限公司(原cn99）](http://centos.bitcomm.cn/)
+* [北京理工大学(IPv4 only)](http://mirror.bit.edu.cn)
+* [北京理工大学(IPv6 only)](http://mirror.bit6.edu.cn)
+* [北京交通大学(IPv4 only)](http://mirror.bjtu.edu.cn)
+* [北京交通大学(IPv6 only)](http://mirror6.bjtu.edu.cn)
+* [北京交通大学(IPv4+IPv6)](http://debian.bjtu.edu.cn)
+* [兰州大学](http://mirror.lzu.edu.cn/)
+* [厦门大学](http://mirrors.xmu.edu.cn/)
+* [上海交通大学(IPv4 only)](http://ftp.sjtu.edu.cn/)
+* [上海交通大学(IPv6 only)](http://ftp6.sjtu.edu.cn)
+* [清华大学(IPv4 only)](http://mirrors.4.tuna.tsinghua.edu.cn/)
+* [清华大学(IPv6 only)](http://mirrors.6.tuna.tsinghua.edu.cn/)
+* [清华大学(IPv4+IPv6)](http://mirrors.tuna.tsinghua.edu.cn/)
+* [天津大学](http://mirror.tju.edu.cn/)
+* [中国科学技术大学(IPv4+IPv6)](http://mirrors.ustc.edu.cn/)
+* [中国科学技术大学(IPv4 only)](http://mirrors4.ustc.edu.cn/)
+* [中国科学技术大学(IPv6 only)](http://mirrors6.ustc.edu.cn/)
+* [西南大学](http://linux.swu.edu.cn/swudownload/Distributions/)
+* [东北大学(IPv4 only)](http://mirror.neu.edu.cn/)
+* [东北大学(IPv6 only)](http://mirror.neu6.edu.cn/ )
+* [电子科技大学](http://ubuntu.uestc.edu.cn/)
+* [青岛大学](http://mirror.qdu.edu.cn/)
+* [重庆大学](http://mirrors.cqu.edu.cn/)
 
 ## 其它待定
 * [color-themes for IDEA](http://color-themes.com/)
