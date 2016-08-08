@@ -172,6 +172,7 @@
 * [Slack](https://slack.com/)
 * [skype](http://skype.gmw.cn)
 * [打字练习](https://www.typing.com/student/start)
+* [trello](https://trello.com)
 
 ## 域名建站
 * [凡科建站](http://www.faisco.com/)
@@ -192,3 +193,4 @@
 ## 其它待定
 * [color-themes for IDEA](http://color-themes.com/)
 * [在线API模拟设计](https://apiary.io/)
+* [编程语言排行榜 tiobe](http://www.tiobe.com/tiobe-index/)
