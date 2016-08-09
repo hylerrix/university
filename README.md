@@ -68,9 +68,6 @@
 * [JS框架 JQuery](https://jquery.com/)
 * [PrototypeJSJS基础类库](http://prototypejs.org/)
 * [JQuery框架](http://www.htmleaf.com/)
-* [Html5移动App开发框架](http://ionicframework.com/)
-* [JS单元测试框架 jasmine](http://jasmine.github.io/)
-* [一个Node.js的静态博客框架 Hexo](https://hexo.io/)
 * [ReactJS](http://www.react.org.cn/)
 
 ## 后端框架
@@ -79,6 +76,13 @@
 * [ThinkPHP](http://www.thinkphp.cn/)
 * [Laravel](https://laravel.com/)
 * [Spring](http://spring.io/)
+
+## 测试框架
+* [JS 单元测试框架 jasmine](http://jasmine.github.io/)
+* [JS 代码质量检查](http://www.jslint.com/)
+
+## 移动开发
+* [Html5移动App开发框架](http://ionicframework.com/)
 
 ## 编辑工具
 * [atom](https://atom.io/)
@@ -103,15 +107,16 @@
 * [lintcode](http://www.lintcode.com/)
 * [hihocoder](http://hihocoder.com/hiho/)
 
-## 博客主站
+## 博客笔记
 * [博客园 cnblogs](http://www.cnblogs.com)
 * [CSDN](http://www.csdn.net)
 * [GitHub Pages](https://pages.github.com/)
 * [Wordpress](https://wordpress.org/)
-* [wordpress大学](http://www.wpdaxue.com/)
+* [ghost](https://ghost.org/)
+
+## 博客搭建
+* [一个Node.js的静态博客框架 Hexo](https://hexo.io/)
 * [轻量级博客主站 typecho](http://typecho.org/)
-* [博客](https://ghost.org/)
-* [medium](https://www.medium.com/)
 
 ## 网络攻防
 * [漏洞盒子（互联网安全测验）](https://www.vulbox.com/)
@@ -132,6 +137,7 @@
 * [Web 技术文档](https://developer.mozilla.org/zh-CN/docs/Web)
 * [在线API文档](http://tool.oschina.net/apidocs)
 * [CanIUse](http://caniuse.com/)
+* [在线 api 查询 overapi](http://overapi.com/)
 
 ## 视频学习
 * [慕课网](https://www.shiyanlou.com/)
@@ -160,6 +166,7 @@
 * [掘金](http://gold.xitu.io/)
 * [极客头条](http://geek.csdn.net)
 * [Reddit](https://www.reddit.com)
+* [wordpress大学](http://www.wpdaxue.com/)
 
 ## 设计工具
 * [在线制作平台](http://www.ipresst.com/)
@@ -170,7 +177,8 @@
 * [APP原型设计 MockPlus](https://www.mockplus.cn/)
 * [动画演示工具Focusky](http://www.focusky.com.cn/)
 * [文字云 jasondavies](https://www.jasondavies.com/wordcloud/)
-* [网页PPT演示Impress.JS](http://impressjs.devpost.com/)
+* [网页PPT演示 Impress.JS](http://impressjs.devpost.com/)
+* [自动生成流程图 code2flow](http://code2flow.com/)
 
 ## 高效工作
 * [Teambition](https://www.teambition.com/)
