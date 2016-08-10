@@ -50,7 +50,7 @@
 * [Dev C++](http://sourceforge.net/projects/orwelldevcpp/)
 * [CodeBlocks](http://www.codeblocks.org/)
 * [PHP开发环境包 XAMPP](https://www.apachefriends.org/zh_cn/index.html/)
-* [PHP用来管理依赖(dependency)关系的工具PHPComposer](http://www.phpcomposer.com/)
+* [PHP用来管理依赖(Dependency)关系的工具PHPComposer](http://www.phpcomposer.com/)
 * [跨平台移动应用程序快速开发平台 PhoneGap](http://phonegap.com/)
 * [云计算管理平台项目 OpenStack](http://docs.openstack.org/)
 * [抓包工具 wireshark](https://www.wireshark.org/download.html/)
@@ -139,6 +139,8 @@
 * [Growth](http://www.growth.ren/)
 * [前端技术栈](http://www.frontendhandbook.com/)
 * [菜鸟教程](http://www.runoob.com/)
+* [前端技能游戏树](http://skill.phodal.com/)
+* [百度前端技术学院](http://ife.baidu.com/)
 
 ## 编程教育
 * [CODE](https://code.org/)
@@ -159,6 +161,7 @@
 * [腾讯课堂](http://ke.qq.com/)
 * [可汗学院](https://www.khanacademy.org/)
 * [i春秋学院](http://www.ichunqiu.com/main/)
+* [51cto](http://edu.51cto.com/?www)
 
 ## 开发社区
 * [WEB前端研发部 FXE](http://fex.baidu.com/)
@@ -178,6 +181,7 @@
 * [极客头条](http://geek.csdn.net)
 * [Reddit](https://www.reddit.com)
 * [wordpress大学](http://www.wpdaxue.com/)
+* [51cto](http://www.51cto.com/)
 
 ## 设计工具
 * [在线制作平台](http://www.ipresst.com/)
@@ -190,6 +194,8 @@
 * [文字云 jasondavies](https://www.jasondavies.com/wordcloud/)
 * [网页PPT演示 Impress.JS](http://impressjs.devpost.com/)
 * [自动生成流程图 code2flow](http://code2flow.com/)
+* [脑图 xmind](http://www.xmindchina.net/)
+* [百度脑图](http://naotu.baidu.com/)
 
 ## 高效工作
 * [Teambition](https://www.teambition.com/)
