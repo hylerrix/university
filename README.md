@@ -61,7 +61,7 @@
 * [百度效率云](https://xiaolvyun.baidu.com/#page1)
 
 ## 前端框架
-* [前端CSS、JS框架Bootstrap](http://www.bootcss.com/)
+* [CSS/JS组件框架 Bootstrap](http://www.bootcss.com/)
 * [angularjs](http://docs.angularjs.cn/api)
 * [apjs](http://www.apjs.net/)
 * [JS图表库框架 Echarts](http://echarts.baidu.com/index.html/)
@@ -69,6 +69,8 @@
 * [PrototypeJSJS基础类库](http://prototypejs.org/)
 * [JQuery框架](http://www.htmleaf.com/)
 * [ReactJS](http://www.react.org.cn/)
+* [VueJS](http://cn.vuejs.org/)
+* [Webpack](webpack.github.io)
 
 ## 后端框架
 * [CodeIgniter](http://codeigniter.org.cn/)
@@ -132,6 +134,10 @@
 * [Growth](http://www.growth.ren/)
 * [前端技术栈](http://www.frontendhandbook.com/)
 * [菜鸟教程](http://www.runoob.com/)
+
+## 编程教育
+* [CODE](https://code.org/)
+* [Coding Girls Club](http://www.codingirls.club)
 
 ## 技术文档
 * [Web 技术文档](https://developer.mozilla.org/zh-CN/docs/Web)
@@ -239,6 +245,9 @@
 * [电子科技大学](http://ubuntu.uestc.edu.cn/)
 * [青岛大学](http://mirror.qdu.edu.cn/)
 * [重庆大学](http://mirrors.cqu.edu.cn/)
+
+## 前端游戏
+* [数字拼图游戏](https://luozhihao.github.io/vue-puzzle/index.html)
 
 ## 其它待定
 * [color-themes for IDEA](http://color-themes.com/)
