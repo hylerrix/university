@@ -37,6 +37,8 @@
 * 模版语言
 * 镜像站点
 * 前端游戏
+* 前端团队
+* 数据可视
 * 其它待定
 
 ---
@@ -260,7 +262,20 @@
 ## 前端游戏
 * [数字拼图游戏](https://luozhihao.github.io/vue-puzzle/index.html)
 
+## 前端团队
+* [淘宝前端团队](http://taobaofed.org/)
+
+## 数据可视
+* [D3.js入门指南](http://www.jianshu.com/p/c3800c61d2fb)
+* [Web工程师必备的43款可视化工具](http://www.csdn.net/article/2013-01-15/2813666-Web-Tools)
+* [算法可视化](http://zh.visualgo.net/)
+* [冒泡算法可视化](http://runjs.cn/code/nukglbyq)
+
 ## 其它待定
 * [color-themes for IDEA](http://color-themes.com/)
 * [在线API模拟设计](https://apiary.io/)
 * [编程语言排行榜 tiobe](http://www.tiobe.com/tiobe-index/)
+
+## 全栈工程师技能树
+
+![全栈工程师技能树](http://note.youdao.com/yws/public/resource/5bbc28f7fff66a0167dcd73e874e94d8/xmlnote/WEBRESOURCE4f56a8b4cb2b3ce3736f047234be9edd/4826)
