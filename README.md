@@ -38,6 +38,7 @@
 * 镜像站点
 * 前端游戏
 * 前端团队
+* 在线编程
 * 数据可视
 * 其它待定
 
@@ -73,7 +74,7 @@
 * [apjs](http://www.apjs.net/)
 * [JS图表库框架 Echarts](http://echarts.baidu.com/index.html/)
 * [JS框架 JQuery](https://jquery.com/)
-* [PrototypeJSJS基础类库](http://prototypejs.org/)
+* [JS基础类库 PrototypeJS](http://prototypejs.org/)
 * [JQuery框架](http://www.htmleaf.com/)
 * [ReactJS](http://www.react.org.cn/)
 * [VueJS](http://cn.vuejs.org/)
@@ -126,6 +127,7 @@
 ## 博客搭建
 * [一个Node.js的静态博客框架 Hexo](https://hexo.io/)
 * [轻量级博客主站 typecho](http://typecho.org/)
+* [Farbox](https://www.farbox.com/)
 
 ## 网络攻防
 * [漏洞盒子（互联网安全测验）](https://www.vulbox.com/)
@@ -150,9 +152,10 @@
 
 ## 技术文档
 * [Web 技术文档](https://developer.mozilla.org/zh-CN/docs/Web)
-* [在线API文档](http://tool.oschina.net/apidocs)
+* [在线 API 文档](http://tool.oschina.net/apidocs)
 * [CanIUse](http://caniuse.com/)
 * [在线 api 查询 overapi](http://overapi.com/)
+* [Devdocs](http://devdocs.io/)
 
 ## 视频学习
 * [慕课网](https://www.shiyanlou.com/)
@@ -198,6 +201,8 @@
 * [自动生成流程图 code2flow](http://code2flow.com/)
 * [脑图 xmind](http://www.xmindchina.net/)
 * [百度脑图](http://naotu.baidu.com/)
+* [流程控制 番茄土豆](https://pomotodo.com/)
+* [脑图 MindNode](http://mindnode.com/)
 
 ## 高效工作
 * [Teambition](https://www.teambition.com/)
@@ -264,6 +269,11 @@
 
 ## 前端团队
 * [淘宝前端团队](http://taobaofed.org/)
+
+## 在线编程
+* [JS fiddle](https://jsfiddle.net/)
+* [RunJS](http://runjs.cn/)
+* [Codeopen](http://codepen.io/)
 
 ## 数据可视
 * [D3.js入门指南](http://www.jianshu.com/p/c3800c61d2fb)
