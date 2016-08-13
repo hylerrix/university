@@ -285,7 +285,3 @@
 * [color-themes for IDEA](http://color-themes.com/)
 * [在线API模拟设计](https://apiary.io/)
 * [编程语言排行榜 tiobe](http://www.tiobe.com/tiobe-index/)
-
-## 全栈工程师技能树
-
-![全栈工程师技能树](http://note.youdao.com/yws/public/resource/5bbc28f7fff66a0167dcd73e874e94d8/xmlnote/WEBRESOURCE4f56a8b4cb2b3ce3736f047234be9edd/4826)
