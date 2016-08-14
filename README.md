@@ -149,6 +149,7 @@
 ## 编程教育
 * [CODE](https://code.org/)
 * [Coding Girls Club](http://www.codingirls.club)
+* [Codecombat]（http://cn.codecombat.com/）
 
 ## 技术文档
 * [Web 技术文档](https://developer.mozilla.org/zh-CN/docs/Web)
@@ -156,6 +157,7 @@
 * [CanIUse](http://caniuse.com/)
 * [在线 api 查询 overapi](http://overapi.com/)
 * [Devdocs](http://devdocs.io/)
+* [API手册 -- 汇智网](http://man.hubwiz.com/)
 
 ## 视频学习
 * [慕课网](https://www.shiyanlou.com/)
@@ -187,6 +189,11 @@
 * [Reddit](https://www.reddit.com)
 * [wordpress大学](http://www.wpdaxue.com/)
 * [51cto](http://www.51cto.com/)
+
+## 开源讨论
+* [WeCenter](http://www.wecenter.com/)
+* [Discourse](http://www.discourse.org/)
+* [Flarum](http://flarum.org.cn/)
 
 ## 设计工具
 * [在线制作平台](http://www.ipresst.com/)
@@ -270,16 +277,25 @@
 ## 前端团队
 * [淘宝前端团队](http://taobaofed.org/)
 
+## 前端引擎
+* [COCOS](http://www.cocos.com/)
+* [白鸽引擎](http://www.egret.com/)
+
 ## 在线编程
 * [JS fiddle](https://jsfiddle.net/)
 * [RunJS](http://runjs.cn/)
 * [Codeopen](http://codepen.io/)
+* [汇智网](http://www.hubwiz.com/)
 
 ## 数据可视
 * [D3.js入门指南](http://www.jianshu.com/p/c3800c61d2fb)
 * [Web工程师必备的43款可视化工具](http://www.csdn.net/article/2013-01-15/2813666-Web-Tools)
 * [算法可视化](http://zh.visualgo.net/)
 * [冒泡算法可视化](http://runjs.cn/code/nukglbyq)
+
+## 评论系统
+* [Disqus](http://www.disqus.com/)
+* [友言](http://www.uyan.cc/)
 
 ## 其它待定
 * [color-themes for IDEA](http://color-themes.com/)
