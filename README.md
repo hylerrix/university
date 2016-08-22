@@ -40,6 +40,7 @@
 * 前端团队
 * 在线编程
 * 数据可视
+* 翻墙必备
 * 其它待定
 
 ---
@@ -296,6 +297,10 @@
 ## 评论系统
 * [Disqus](http://www.disqus.com/)
 * [友言](http://www.uyan.cc/)
+
+## 翻墙必备
+* [FreeVPNSS](http://i.freevpnss.com/)
+* [IShadowsocks](http://www.ishadowsocks.org/)
 
 ## 其它待定
 * [color-themes for IDEA](http://color-themes.com/)
