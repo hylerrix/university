@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://github.com/icorvoh/FSD-Debris">
-        <img width="202" alt="icorvoh's blog" src="./assets/blog-logo.png">
+        <img width="202" alt="icorvoh's blog" src="./assets/blog.png">
     </a>
 </p>
 
@@ -14,29 +14,12 @@
     <b>凝尘计划</b>
 </p>
 
-<p>
-    <div align="center"><i><a href="https://github.com/Couple-Us/Programmer-Sophie.git">“ 寻找苏菲 ”</a>，一起来搜寻国内编程厉害的女生。</div>
-    <div align="center"><i><a href="https://github.com/Couple-Us/Programmer-Sophie.git">“ 猿猿酒吧 ”</a>，全国连锁的程序员技术交流酒吧。</div>
-</p>
-
-<hr/>
-
-<p align="center">
-    <b>所有 PPT</b>
-</p>
-
-<p>
-    <div align="center"><i><a href="#">“ 漫游前端世界” </a>，未导入。</div>
-</p>
-
-<hr/>
-
 <p align="center">
     <b>所有电子书</b>
 </p>
 
 <p>
-    <div align="center"><i><a href="https://github.com/icorvoh/Advanced-React/">《 漫话 “JavaScript” 奇异世界 》</a>，写作中。</div>
+    <div align="center"><i><a href="#">《 漫话 “JavaScript” 奇异世界 》</a>，写作中。</div>
 </p>
 
 <hr/>
@@ -46,12 +29,10 @@
 </p>
 
 <p>
-    <div align="center"><i><a href="https://github.com/creatshare-demos/Growth-Radar">“ CreatShare 成长雷达 ”</a>，全栈，开发中。</i></div>
-    <div align="center"><i><a href="#">“ 西邮内推网 ”</a>，待定，开发中。</i></div>
+    <div align="center"><i><a href="https://github.com/icorvoh/XUPT-FE">“ 西邮前端圈 ”</a>，前端，开发中。</i></div>
     <div align="center"><i><a href="https://github.com/icorvoh/Coursework-System">“ 学生作业系统 ”</a>，前端，维护中。</i></div>
-    <div align="center"><i><a href="#">“ freeCodeCamp 西安前端社区官网 ”</a>，前端，开发中。</i></div>
-    <div align="center"><i><a href="#">“ 二人世界 ”</a>，前端，开发中。</i></div>
-    <div align="center"><i><a href="https://github.com/Couple-Us/TTMS">“ 影院票务管理系统 ”</a>，全栈，开发中。</i></div>
+    <div align="center"><i><a href="https://github.com/FreeCodeCamp-XiAn/FreeCodeCamp-XiAn.github.io">“ freeCodeCamp 西安前端社区官网 ”</a>，前端，开发中。</i></div>
+    <div align="center"><i><a href="#">“ 二人世界 ”</a>，前端，未启动。</i></div>
     <div align="center"><i><a href="https://github.com/icorvoh/HaiTou-FE">“ ‘畅校园’宣讲会 ”</a>，前端，维护中。</i></div>
     <div align="center"><i><a href="https://github.com/icorvoh/Borrow-Book">“ 无微不至的‘借阅伴侣’ ”</a>，前端，已完成。</i></div>
 </p>
