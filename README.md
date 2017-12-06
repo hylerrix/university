@@ -19,7 +19,7 @@
 </p>
 
 <p>
-    <div align="center"><i><a href="#">《 漫话 “JavaScript” 奇异世界 》</a>，写作中。</div>
+    <div align="center"><i><a href="https://github.com/Couple-Us/Software-Web-Ebook">《 软工小书 - Web 应用开发从设计到上线 》</a>，写作中。</div>
 </p>
 
 <hr/>
