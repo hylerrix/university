@@ -1,41 +1,39 @@
 <p align="center">
-    <a href="https://github.com/hylerrix/blog">
-        <img width="202" alt="hylerrix's blog" src="./assets/blog.png">
+    <a href="https://github.com/hylerrix/university">
+        <img width="202" alt="hylerrix's university" src="./assets/university.png">
     </a>
 </p>
 
 <p align="center">
-    <a href="https://github.com/hylerrix/blog/issues"><b>所有文章</b></a>
+    <a href="https://github.com/hylerrix/blog/issues"><b>大学文章</b></a>
 </p>
 
 <hr/>
 
-<p align="center">
-    <b>写作计划</b>
 </p>
 
 <p>
-    <div align="center"><i>深刻构思中</div>
+    <div align="center">我的大学四年，匆匆而过。</div>
 </p>
 
 <hr/>
 
 <p align="center">
-    <b>个人项目</b>
+    <b>大学项目</b>
 </p>
 
-<p>
-    <div align="center"><i><a href="https://github.com/hylerrix/resume">“Resume”</a>，基于 React 的一个简历模板，前端，v0.2.0</i></div>
-</p>
+> ...待 2020-04 填充
+
+|时间|项目代号|职责|简要|
+|-|-|-|-|
+|2015-xx-xx|Resume|前端|xxx|
 
 <hr/>
 
 <p align="center">
-    <b><a href="https://github.com/ningowood">凝果项目</a></b>
-</p>
-
-<p align="center">
-    All in @ningowood
+    <a href="https://github.com/hylerrix/resume/releases/tag/v0.1.0">
+        大学简历
+    </a>
 </p>
 
 <hr/>
@@ -45,6 +43,14 @@
 <p align="center">微信公众号 `凝果屋的韩亦乐`(@ningowood)。</p>
 
 <p align="center">喜欢请点右上角 `star`。订阅的话，请 `watch` 按钮。</p>
+
+<p align="center">
+    <a href="https://github.com/hylerrix/university">
+        <img width="202" alt="hylerrix's university" src="./assets/official-qrcode.png">
+    </a>
+</p>
+
+<hr/>
 
 <p align="center"><b>关于版权</b></p>
 
